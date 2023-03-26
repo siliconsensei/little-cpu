@@ -1,6 +1,10 @@
 {
 	"name": "kogata",
 	"version": "0.0.1",
+	"description": "",
+	"keywords": [],
+	"author": "siliconsensei",
+	"license": "AGPL-3.0-or-later",
 	"private": true,
 	"scripts": {
 		"dev": "vite dev",
